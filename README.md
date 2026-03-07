@@ -1,10 +1,4 @@
 # DAX-ESG-Volatility-Analysis
-This is your **master README.md**. It is professionally structured to highlight your **SAP/Finance background** alongside your **new R Data Science skills**.
-
-To use this, go to your GitHub repository, click **"Add file"** > **"Create new file"**, name it `README.md`, and paste the following:
-
----
-
 # DAX 20: ESG Quality vs. Market Volatility Analysis
 
 ### *Quantitative Finance & Sustainability Portfolio Project*
