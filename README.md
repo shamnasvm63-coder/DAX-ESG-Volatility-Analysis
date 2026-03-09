@@ -148,5 +148,3 @@ This project demonstrates competencies directly applicable to:
 
 ---
 
-*← Previous: [Spatial Flood Risk Analysis (Python/GEE)](https://github.com/shamnasvm63-coder/spatial-flood-risk-analysis)*
-*→ Next: Project 4 — SQL + Power BI CSRD Reporting Dashboard*
